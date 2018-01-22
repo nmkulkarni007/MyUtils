@@ -1,0 +1,11 @@
+{
+    "Date" : "2017/11/01",
+    "HomeTeam" : {
+        "Name" : "Jersey Lions",
+        "logo" : "../img/if_Crikcet_71198.png"
+    },
+    "Away Team": {
+        "Name": "Jersey Lions",
+        "logo": "../img/if_Crikcet_71198.png"
+    }
+}

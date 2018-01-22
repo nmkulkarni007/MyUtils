@@ -1,0 +1,29 @@
+{
+    "rsvp": [
+        {
+            "id": "player1",
+            "Name": "Nikhil Kulkarni",
+            "currentMatchStatus": "out"
+        },
+        {
+            "id": "player2",
+            "Name": "Nikhil Kulkarni",
+            "currentMatchStatus": "out"
+        },
+        {
+            "id": "player3",
+            "Name": "Nikhil Kulkarni",
+            "currentMatchStatus": "out"
+        },
+        {
+            "id": "player4",
+            "Name": "Nikhil Kulkarni",
+            "currentMatchStatus": "out"
+        },
+        {
+            "id": "player5",
+            "Name": "Nikhil Kulkarni",
+            "currentMatchStatus": "out"
+        }
+    ]
+}

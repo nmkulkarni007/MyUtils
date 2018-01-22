@@ -1,0 +1,28 @@
+{
+    "dashBoard" : [
+        {
+            "id" : "player1",
+            "Name": "Nikhil Kulkarni",
+            "batting": {
+                "runsScored": "100",
+                "matches": "10",
+                "innings": "10",
+                "ballsFaced": "100",
+                "fours": "10",
+                "sixes": "5",
+                "average": "10",
+                "strikeRate": "100"
+            },
+            "balling": {
+                "overs": "10",
+                "runs": "50",
+                "fours": "4",
+                "sixes": "2",
+                "strikeRate": "10.2",
+                "economy": "5.0",
+                "wickets": "5",
+                "maidens": "1"
+            }
+        }
+    ]
+}
